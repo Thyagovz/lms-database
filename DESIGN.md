@@ -1,14 +1,14 @@
-# Design Document: E-Learning Platform Database
+# Design Document: LMS Database Management System
 
 ## Personal Information
 
-* **Project Title**: E-Learning Database Management System
-* **Name**: [Seu Nome Completo]
-* **GitHub Username**: [Seu Usuário do GitHub]
-* **edX Username**: [Seu Usuário do edX]
-* **City and Country**: [Sua Cidade, Seu País]
-* **Date**: [Data Atual, ex: July 2026]
-* **Video Overview URL**: [Link do seu vídeo de até 3 minutos no YouTube]
+* **Project Title**: LMS Database Management System
+* **Name**: Thyago Euclides
+* **GitHub Username**: Thyagovz
+* **edX Username**: flooddk
+* **City and Country**: Curitiba, Paraná, Brazil
+* **Date**: July 25, 2026
+* **Video Overview URL**: https://www.youtube.com/watch?v=ZxEOx2DPA08
 
 ---
 
